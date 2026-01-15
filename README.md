@@ -1,6 +1,6 @@
 # WhereIsThisPhoto.com — Photo Locator & Image Location Finder
 
-This repository contains the source code for the homepage of **[WhereIsThisPhoto.com](https://whereisthisphoto.com)**.
+This repository contains the supporting code for the API of **[WhereIsThisPhoto.com](https://whereisthisphoto.com)**.
 
 Where Is This Photo uses AI to analyze photos and predict where in the world they were taken. Upload any image, and the system will return a location along with supporting clues.
 
